@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center"> 
-  Olá, eu sou Jeferson Eugenio 
+  Hello 👋 
 </h2>
 
 <p align="center">
@@ -19,21 +19,20 @@
   
 </p>
 
-### Sobre mim
+### About me
 
-Sou surdo, 30 anos, estou trabalhando atualmente **[DBServer](http://db.tec.br)**
-<br>
-Estudo no curso Tecnologia em Análise e Desenvolvimento de Sistemas, meu hobby é futebol
-<br>
-Tenho conhecimento QA tester, REST API, desenvolvimento de web
+My name is Jeferson, I'm deaf, I'm 31 years old, I live in Canoas - RS - Brazil and I like football, I support Inter, I really like programming.
 
-### Tecnologias e ferramentas
+I currently work as an academic for [DB](https://db.tec.br/) at home working.
+
+I have knowledge with automated web testing and Java with Selenium, basic using Python with RobotFramework and also with web development. And learning Nuxt.js and Typescript.
+
+I am studying higher education in Systems Analysis and Development at the Federal Institute of Rio Grande do Sul.
+
+A curious thing about me is that I have a hearing impairment, but I always dedicate myself well to my work and my daily life.
+
+My profile on [**LinkedIn**](https://www.linkedin.com/in/jeferson-eugenio/). 😁
+
+### Technologies and tools
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,py,idea,vscode,eclipse,mysql,postman,selenium,git,github,gitlab)
-
-### Meu Status
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeferson-learn&locale=pt_BR)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeferson-learn&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-learn&langs_count=8)
