@@ -21,7 +21,7 @@
 
 ### About me
 
-My name is Jeferson, I'm deaf, I'm 31 years old, I live in Canoas - RS - Brazil and I like football, I support Inter, I really like programming.
+My name is Jeferson, I'm deaf, I'm 32 years old, I live in Canoas - RS - Brazil and I like football, I support Inter, I really like programming.
 
 I currently work as an academic for [DB](https://db.tec.br/) at home working.
 
