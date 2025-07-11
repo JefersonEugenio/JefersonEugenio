@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center"> 
-  Hello 👋 
+  Olá 👋 
 </h2>
 
 <p align="center">
@@ -19,20 +19,20 @@
   
 </p>
 
-### About me
+### Sobre de mim
 
-My name is Jeferson, I'm deaf, I'm 32 years old, I live in Canoas - RS - Brazil and I like football, I support Inter, I really like programming.
+Meu nome é Jeferson, sou surdo, tenho 32 anos, moro em Canoas - RS - Brasil e gosto de futebol, torço para o Inter e gosto muito de programar.
 
-I currently work as an academic for [DB](https://db.tec.br/) at home working.
+Atualmente, estou atuando como acadêmico na [DB](https://db.tec.br/), com atividades realizadas em regime híbrido.
 
-I have knowledge with automated web testing and Java with Selenium, basic using Python with RobotFramework and also with web development. And learning Nuxt.js and Typescript.
+Possuo conhecimento em testes automatizados para aplicações web, utilizando Java com Selenium, JavaScript com Cypress e noções básicas de Python com Robot Framework. Também tenho experiência em desenvolvimento web.
 
-I am studying higher education in Systems Analysis and Development at the Federal Institute of Rio Grande do Sul.
+Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Rio Grande do Sul (IFRS)
 
-A curious thing about me is that I have a hearing impairment, but I always dedicate myself well to my work and my daily life.
+Uma curiosidade sobre mim é que tenho deficiência auditiva, mas sempre me dediquei bastante ao meu trabalho e ao meu dia a dia.
 
-My profile on [**LinkedIn**](https://www.linkedin.com/in/jeferson-eugenio/). 😁
+Meu perfil no [**LinkedIn**](https://www.linkedin.com/in/jeferson-eugenio/). 😁
 
-### Technologies and tools
+### Tecnologias e ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,py,idea,vscode,eclipse,mysql,postman,selenium,git,github,gitlab)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,py,idea,vscode,eclipse,mysql,postman,selenium,cypress,git,github,gitlab)
