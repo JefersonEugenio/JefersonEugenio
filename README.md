@@ -21,7 +21,7 @@
 
 ### Sobre de mim
 
-Meu nome é Jeferson, sou surdo, tenho 32 anos, moro em Canoas - RS - Brasil e gosto de futebol, torço para o Inter e gosto muito de programar.
+Meu nome é Jeferson, sou surdo, tenho 33 anos, moro em Canoas - RS - Brasil e gosto de futebol, torço para o Inter e gosto muito de programar.
 
 Atualmente, estou atuando como acadêmico na [DB](https://db.tec.br/), com atividades realizadas em regime híbrido.
 
